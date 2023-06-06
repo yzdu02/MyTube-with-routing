@@ -1,0 +1,14 @@
+* {
+    box-sizing: border-box;
+ }
+    body, html {
+    margin: 0 auto;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+ }
+
+    /* No underscore or other styles in hyperlink*/
+    a:link { text-decoration: none; }
+    a:visited { text-decoration: none; }
+    a:hover { text-decoration: none; }
+    a:active { text-decoration: none; }
